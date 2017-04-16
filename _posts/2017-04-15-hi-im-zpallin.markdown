@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Hi, I am Zpallin"
-date:   2017-04-16 11:26:00 -0700
+title:  "hi, i'm zpallin"
+date:   2017-04-15 11:26:00 -0700
 categories: zpallin firstblog
 ---
 {% highlight rust %}
