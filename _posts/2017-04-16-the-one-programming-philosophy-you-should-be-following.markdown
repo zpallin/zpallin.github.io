@@ -61,7 +61,7 @@ categories: zpallin software methodology philosophy devops
 
 `Rosa` I think I see what you're saying. An entire company must adopt DevOps as a philosophy, not necessarily do "DevOps Engineering".
 
-`Sherman` Exactly. If your engineering deparment all things in terms of DevOps, they will make room for things like Chef, Vagrant, Travis, Terraform, etc. If you just assign one or two people as DevOps engineers, they may build a bunch of things no one will get to using.
+`Sherman` Exactly. If your engineering deparment entirely adopts DevOps, they will make room for things like Chef, Vagrant, Travis, Terraform, etc. If you just assign one or two people as DevOps engineers, they may build a bunch of things no one will get to using.
 
 `Rosa` Okay, okay, I see what you're saying. But then, in that case, should a company that straddles the line between "DevOps" and "Traditional" technological workflow just fire their DevOps Engineers and save money and time?
 
