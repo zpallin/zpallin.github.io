@@ -77,9 +77,9 @@ categories: zpallin software methodology philosophy devops
 
 `Rosa` Beer?
 
-`Sherman` I'm in ketosis right now, but I'll join you.
+`Sherman` Nah. I'm in ketosis right now, but I'll join you.
 
-`Rosa` What kind of a developer are you?
+`Rosa` Huh? What kind of a developer are you?
 
 `Sherman` One trying to keep up with the trends.
 
