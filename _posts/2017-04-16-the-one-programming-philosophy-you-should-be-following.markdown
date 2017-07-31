@@ -2,7 +2,7 @@
 layout: post
 title:  "the one programming philosophy everyone should be following..."
 date:   2017-04-16 11:26:00 -0700
-categories: zpallin software methodology philosophy devops
+categories: storytime software methodology philosophy devops
 ---
 
 `Sherman` Rosa, have you heard of DevOps?
