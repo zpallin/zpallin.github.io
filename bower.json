@@ -1,0 +1,12 @@
+{
+  "name": "zpallin-github-io",
+  "dependencies": {
+    "timesheet": "git://github.com/sbstjn/timesheet.js.git",
+    "d3-timeline": "git://github.com/jiahuang/d3-timeline.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}

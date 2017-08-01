@@ -1,0 +1,16 @@
+{
+  "name": "zpallin.github.io",
+  "version": "1.0.0",
+  "description": "website for zpallin",
+  "dependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-less": "~1.4.1",
+    "grunt-contrib-uglify": "~3.0.1",
+    "grunt-contrib-copy": "~1.0.0",
+    "bower": "~1.8.0",
+    "grunt-exec": "~3.0.0"
+  },
+  "engines": {
+    "npm": "3.10.10"
+  }
+}
