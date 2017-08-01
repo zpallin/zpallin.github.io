@@ -21,7 +21,7 @@ description: > # this means to ignore newlines until "baseurl:"
   San Jose, CA is my home.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://zpallin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: zpallin
+twitter_username: ZeppelinWS
 github_username:  zpallin
 
 # Build settings
