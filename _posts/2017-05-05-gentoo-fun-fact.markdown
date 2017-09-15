@@ -2,7 +2,11 @@
 layout: post
 title:  "gentoo, fun fact of the day"
 date:   2017-05-05 11:16:00 -0700
-categories: gentoo linux
+categories: 
+- sysadmin
+- gentoo 
+- linux
+- tech
 ---
 I took up gentoo on a macbook pro. My coworker recommended it and seeing little reason not to try something new and different I took him up on his offer. Moments later I find myself waiting almost 20 minutes for virtualbox to compile via `emerge`. 
 

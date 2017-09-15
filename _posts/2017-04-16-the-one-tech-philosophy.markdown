@@ -1,8 +1,13 @@
 ---
 layout: post
-title:  "the one programming philosophy everyone should be following..."
+title:  'chapter(1, "the one tech philosophy everyone should follow")'
 date:   2017-04-16 11:26:00 -0700
-categories: storytime software methodology philosophy devops
+categories: 
+- bitbybit
+- software 
+- methodology 
+- philosophy 
+- devops
 ---
 
 `Sherman` Rosa, have you heard of DevOps?
@@ -53,7 +58,7 @@ categories: storytime software methodology philosophy devops
 
 `Rosa` I don't know, Sherman. I get the feeling like adding a bunch of extra code to your system build just makes things more complicated. Like, when was the last time you saw someone write tests for their Chef cookbooks?
 
-`Sherman` Hey, I get it. People are not perfect, especially SysAdmins. But this is the <i>one programming philosophy everyone should be following</i> because it <i>involves everyone in the process</i>.
+`Sherman` Hey, I get it. People are not perfect, especially SysAdmins. But this is the <i>one tech philosophy everyone should follow</i> because it <i>involves everyone in the process</i>.
 
 `Rosa` I see what you're saying... but don't you think philosophies are problematic in software development? Developers get so caught up in doing things perfectly that they never get any work done.
 

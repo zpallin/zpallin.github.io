@@ -1,0 +1,19 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.site-title-holder {
+  float: left;
+  display: block;
+  float: right;
+  left: -50%; /* or right 50% */
+  text-align: left;
+}
+
+.site-nav-holder {
+  float:left;
+  display: block;
+  clear: left;
+} 

@@ -1,8 +1,14 @@
 ---
 layout: post
-title:  "startup strategies, sorta"
+title:  'chapter(2, "startup strategies, sorta")'
 date:   2017-05-10 16:34:00 -0700
-categories: storytime startups kafka philosophy datastreams infrastructure
+categories: 
+- bitbybit
+- startups 
+- kafka 
+- philosophy 
+- datastreams 
+- infrastructure
 ---
 
 `Yun` Are you sure that's a good idea?
