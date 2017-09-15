@@ -2,9 +2,10 @@
 layout: default
 ---
 
-<h1>{{ page.tag }}</h1>
+<h1>{{ page.category }}</h1>
 
 {% for post in site.categories[page.category] %}
-  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  <span class="post-meta">{{ post.date | date: '%b %d, %Y' }}</span>
+  <h2><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></h2>
   <p></p>
 {% endfor %}
