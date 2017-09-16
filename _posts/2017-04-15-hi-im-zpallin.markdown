@@ -17,9 +17,9 @@ fn hello() -> String {
 I figure I might publish some blog stuff. So, here it is, my zpallin site. Neato.
 
 <ul>
-  {% for tag in page.tags %}
+  {% for category in page.categories %}
     <li>
-      <a href="/{{ site.tag_page_dir }}/{{ tag | slugify: 'pretty' }}/">{{ tag }}</a>
+      <a href="/categories/{{ category | slugify: 'pretty' }}/">{{ category }}</a>
     </li>
   {% endfor %}
 </ul>
