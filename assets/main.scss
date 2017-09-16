@@ -16,9 +16,25 @@
   float:left;
   display: block;
   clear: left;
-} 
+}
 
-.site-nav, .menu-icon{
-	position: absolute;
+.site-nav {
+	right: auto;
+	text-align: left;
+}
+
+label[for="nav-trigger"] {
+	float: left;
+}
+
+.trigger {
+	text-align: left;
+}
+
+.site-nav .page-link {
+	margin-left: 0px;
+}
+
+.site-nav label[for="nav-trigger"] {
 	float: left;
 }
