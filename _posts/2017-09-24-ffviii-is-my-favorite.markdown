@@ -46,9 +46,11 @@ But the strengths of this game push it far beyond its flaws. The story itself is
 <p>
 That's because the primary plot is focused on a love story. That allowed the producers of the game to paint a very detailed, mysterious, and hidden story behind the focus of the story to embellish and strengthen the narrative. This happens in such a powerful way that when you stumble upon the greater secrets of the game, such as the Centra ruins or the Deep Sea Research center, you are able to attempt to connect the dots about the secrets of the world in order to understand why they are there.
 </p>
+<img src="http://vignette1.wikia.nocookie.net/finalfantasy/images/b/b0/Centra_Excavation_Site_1.jpg/revision/latest?cb=20080206143724" />
 <p>
 The best example of this actually is in the Centra continent. When you are exploring it you find a massive fissure in the center of the land. In the second disk, you won't understand what this is... but by the end of the third, it all adds up... and the realization of what it means is part of the biggest plot shocker I've ever experienced in a game (Lunatic Pandora).
 </p>
+<img src="https://vignette.wikia.nocookie.net/finalfantasy/images/2/25/Vienne_Mountains.jpg/revision/latest?cb=20080803131750" />
 <p>
 One of the biggest criticisms of the game is that the character drama is not very well fleshed out. I like to disagree, because the characters are played off of each other extremely well. It might just be hard to notice how well they get paired together for events the first time through while you're staring at all of the beautifully pre-rendered backgrounds.
 </p>
@@ -56,6 +58,7 @@ One of the biggest criticisms of the game is that the character drama is not ver
 <p>
 Speaking of pre-rendered backgrounds... this game diverged from FFVII before it by no longer having black, empty spaces in some of their backgrounds. Instead, each background gets to stretch out to the corners of the screen. They also brightened the world, so the game has a wholesome feel rather than dirty and drab like it's predecessor. Don't get me wrong, the darkness of FFVII certainly made it the game it is.
 </p>
+<img src="https://68.media.tumblr.com/9d9ee75513a5fcfae644392ec3a4d4bd/tumblr_nl0qwlN5MX1qj86bro1_500.gif" />
 <p>
 Plus, the music is definitely the best of the series. Yea, even Eyes on Me. <a href="https://www.youtube.com/watch?v=Z-YFy1UDIwU">That goddamned scene in the ship gets me every time.</a> But before you watch it, let me just say that it's only worth the scene if you have played the game up to that point. The lead up is fantastic (yes, the aliens, too).
 </p>
@@ -63,6 +66,6 @@ Plus, the music is definitely the best of the series. Yea, even Eyes on Me. <a h
 There are all sorts of little gems in this game that if you pay attention it just might surprise you. Each time I play through it I notice something new that the developers left for me. Occasionally I like going back and watching great videos about the details of the game. <a href="https://www.youtube.com/watch?v=oKm_hZTMOIY">Here is a review that I think hits almost everything square on the head</a>.
 </p>
 <p>
-So, that's basically why it's my favorite game in the FF series. Thanks for reading.
+So, that's basically why it's my favorite game in the FF series. Time to go play it!
 </p>
-
+<img src="https://68.media.tumblr.com/6be6c702985ab7c803ae03a4f2975a12/tumblr_inline_opm4rwKe1I1rlag41_540.gif" />
