@@ -11,7 +11,23 @@ categories:
 <img src="http://www.ffviiipc.com/images/wallpapers/Wallpaper_Squall_01_1920x1080.jpg" />
 
 <p>
-FFVIII is my favorite Final Fantasy game for a multitude of reasons. It begins by talking about its contenders, IV, VI, VII, IX, and X. The games not mentioned I don't figure into this because the games I listed are the ones during the golden age of the series, and just about anyone who picks a "favorite" of the series picks on of these, and not the others.
+When I was about 9 years old, a group of friends and I made a consequential journey to the local video rental. One of us had discovered something called "RPGs" (not the weapon) and we set out to rent as many as we could. I picked up Illusion of Gaia, while my other friends got Chrono Trigger, and another got Final Fantasy VI. We took turns renting them from the store. After we had each gone through the three, there was one thing we all agreed on: we were hooked.
+</p>
+
+<p>
+My journey with RPGs then continued as I pushed my way through as many of them as possible. I picked up games like Heroes of Might and Magic, Breath of Fire, Earthbound, Super Mario RPG, Elder Scrolls, Star Ocean, and Phantasy Star. The obsession has continued steadily into adulthood.
+</p>
+
+<p>
+But of them all, Final Fantasy stands out. Not because it's my favorite series necessarily, but because such a large volume of their games happen to be some of my favorite games of all time. Honestly, it's hard for me to feel a lot of attachment to the Final Fantasy series as a whole, and I am pretty critical of it. But, of all the final fantasy games I enjoy, the one I enjoy the most is FFVIII.
+</p>
+
+<p>
+FFVIII is probably one of more controversial games of the series. Out of all of the fans of the series, you won't find a game where there is more of a love/hate split than this one. That's because the game also followed probably the most critically acclaimed game of all time, Final Fantasy VII, and so draws a lot of heat for the ways in which it did not live up to its predecessor.
+</p>
+
+<p>
+That being said, FFVIII is my favorite Final Fantasy game for a multitude of reasons. It begins by talking about its contenders, IV, VI, VII, IX, and X. The games not mentioned I don't figure into this because the games I listed are the ones during the golden age of the series, and just about anyone who picks a "favorite" of the series picks on of these, and not the others.
 </p>
 <p>
 I want to also make it clear this is subjective. Also I am not considering graphics at all in my ranking. It's all about the story, the effort, and the story. And if you don't agree, you're free to think poorly of me.
