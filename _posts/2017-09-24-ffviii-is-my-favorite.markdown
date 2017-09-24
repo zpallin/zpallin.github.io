@@ -85,3 +85,8 @@ There are all sorts of little gems in this game that if you pay attention it jus
 So, that's basically why it's my favorite game in the FF series. Time to go play it!
 </p>
 <img src="https://68.media.tumblr.com/6be6c702985ab7c803ae03a4f2975a12/tumblr_inline_opm4rwKe1I1rlag41_540.gif" />
+<hr/>
+<p>
+BONUS: <a href="https://www.reddit.com/r/gaming/comments/71ypwh/never_forget_that_in_final_fantasy_viii_you_could/dnetqq9/">Here is the link to the reddit comment I made that inspired this article</a>
+</p>
+
