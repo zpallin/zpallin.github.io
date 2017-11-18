@@ -5,7 +5,7 @@ date:   2017-09-24 10:35:00 -0700
 categories: 
 - games
 - finalfantasy
-- opionion
+- opinion
 ---
 
 <img src="http://www.ffviiipc.com/images/wallpapers/Wallpaper_Squall_01_1920x1080.jpg" />
