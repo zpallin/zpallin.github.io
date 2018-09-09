@@ -8,8 +8,10 @@ categories:
 - opinion
 ---
 
-<img src="http://www.ffviiipc.com/images/wallpapers/Wallpaper_Squall_01_1920x1080.jpg" />
-
+<div class="imagebox">
+<img src="/assets/img/ff8-first.jpg" style="width:50em;height:28em;" />
+<br /><span><i>But don't get me wrong, Squall is not a perfect protagonist at all.</i></span>
+</div>
 <p>
 When I was about 9 years old, a group of friends and I made a consequential journey to the local video rental. One of us had discovered something called "RPGs" (not the weapon) and we set out to rent as many as we could. I picked up Illusion of Gaia, while my other friends got Chrono Trigger, and another got Final Fantasy VI. We took turns renting them from the store. After we had each gone through the three, there was one thing we all agreed on: we were hooked.
 </p>
@@ -32,7 +34,10 @@ That being said, FFVIII is my favorite Final Fantasy game for a multitude of rea
 <p>
 I want to also make it clear this is subjective. Also I am not considering graphics at all in my ranking. It's all about the story, the effort, and the story. And if you don't agree, you're free to think poorly of me.
 </p>
-<img src="https://i.pinimg.com/736x/5e/39/68/5e396818d5fcf81a859b874da00ea377--best-quotes-ever-single-player.jpg" />
+<div class="imagebox">
+<img src="/assets/img/ff8-second.jpg" />
+<br /><span><i>No, you're not dreaming Squall.</i></span>
+</div>
 <p>
 IV, although being the first of the series to embark on the kind of emotional and personal journeys that would become a trademark of the series, is very raw in its telling. Characters only get explored in 2 dimensional ways and the plot gets goofy and weird often. I love this game, no doubt, but there is little left to mystery, and the plot is extremely linear.
 </p>
@@ -51,30 +56,48 @@ X is... disappointing. As I like to say, X is great until you leave Zanarkand! I
 <p>
 Now... just to be clear, I love all of these games (except X). I love IV, VI, VII, VIII, and IX basically equally, in fact. For all of their flaws, these games basically are in my top 10 favorite games of all time, and they are all part of the same series of games! It's awesome. I hope to some day shake Hinorobu Sakaguchi's hand and thank him for everything.
 </p>
-<img src="http://i.kinja-img.com/gawker-media/image/upload/g1v40tsomzzdqkyreha7.gif" />
+<div class="imagebox">
+<img src="/assets/img/ff8-third.gif" />
+<br /><span><i>Honeybadger has nothing on this guy.</i></span>
+</div>
 <p>
 For VIII, let me start with the flaws. VIII has some pretty bad dialogue, a few characters who are pretty one dimensional for the most part, a rushed battle and leveling system, and some pretty funny memes that make fun of the game.
 </p>
-<img src="http://1jux.net/scale_images/213072_b.jpg" />
+<div class="imagebox">
+<img src="/assets/img/ff8-fourth.jpg" style="height:40em;width:25em;" />
+<br /><span><i>Then again, every single Japanese male is still copying this hairstyle.</i></span>
+</div>
 <p>
 But the strengths of this game push it far beyond its flaws. The story itself is the most complete in the series in so many ways in the sense that the world ties itself together so beautifully. So many dialogues and messages in the story hint at some distant detail of the history of the world, its cities, and its characters. If you are careful, almost every non-essential characters has their actions plotted out throughout the game. And there are a number of them. One of my favorite examples is Headmaster Martine from Galbadia. He makes a bet on your team to kill the sorceress and loses. You see him later in the game mourning over his failure. This level of deep character interaction that is non-essential to the story is what makes VIII so great.
 </p>
 <p>
 That's because the primary plot is focused on a love story. That allowed the producers of the game to paint a very detailed, mysterious, and hidden story behind the focus of the story to embellish and strengthen the narrative. This happens in such a powerful way that when you stumble upon the greater secrets of the game, such as the Centra ruins or the Deep Sea Research center, you are able to attempt to connect the dots about the secrets of the world in order to understand why they are there.
 </p>
-<img src="http://vignette1.wikia.nocookie.net/finalfantasy/images/b/b0/Centra_Excavation_Site_1.jpg/revision/latest?cb=20080206143724" />
+<div class="imagebox">
+<img src="/assets/img/ff8-fifth.jpg" style="width:30em;height:25em;"/>
+<br /><span><i>Foreshadowing looms in the distance...</i></span>
+</div>
 <p>
 The best example of this actually is in the Centra continent. When you are exploring it you find a massive fissure in the center of the land. In the second disk, you won't understand what this is... but by the end of the third, it all adds up... and the realization of what it means is part of the biggest plot shocker I've ever experienced in a game (Lunatic Pandora).
 </p>
-<img src="https://vignette.wikia.nocookie.net/finalfantasy/images/2/25/Vienne_Mountains.jpg/revision/latest?cb=20080803131750" />
+<div class="imagebox">
+<img src="/assets/img/ff8-sixth.gif" />
+<br /><span><i>Pre-rendered backgrounds, animated!</i></span>
+</div>
 <p>
 One of the biggest criticisms of the game is that the character drama is not very well fleshed out. I like to disagree, because the characters are played off of each other extremely well. It might just be hard to notice how well they get paired together for events the first time through while you're staring at all of the beautifully pre-rendered backgrounds.
 </p>
-<img src="http://i.imgur.com/gxaKfMR.gif" />
+<div class="imagebox">
+<img src="/assets/img/ff8-seventh.gif" />
+<br /><span><i>Brings a whole new meaning to "down to earth".</i></span>
+</div>
 <p>
 Speaking of pre-rendered backgrounds... this game diverged from FFVII before it by no longer having black, empty spaces in some of their backgrounds. Instead, each background gets to stretch out to the corners of the screen. They also brightened the world, so the game has a wholesome feel rather than dirty and drab like it's predecessor. Don't get me wrong, the darkness of FFVII certainly made it the game it is.
 </p>
-<img src="https://68.media.tumblr.com/9d9ee75513a5fcfae644392ec3a4d4bd/tumblr_nl0qwlN5MX1qj86bro1_500.gif" />
+<div class="imagebox">
+<img src="/assets/img/ff8-eighth.gif" />
+<br /><span><i>I must have sat at this particular screen in the game for a good 30 minutes just to watch the water flow. Still impressive to me.</i></span>
+</div>
 <p>
 Plus, the music is definitely the best of the series. Yea, even Eyes on Me. <a href="https://www.youtube.com/watch?v=Z-YFy1UDIwU">That goddamned scene in the ship gets me every time.</a> But before you watch it, let me just say that it's only worth the scene if you have played the game up to that point. The lead up is fantastic (yes, the aliens, too).
 </p>
@@ -84,7 +107,10 @@ There are all sorts of little gems in this game that if you pay attention it jus
 <p>
 So, that's basically why it's my favorite game in the FF series. Time to go play it!
 </p>
-<img src="https://68.media.tumblr.com/6be6c702985ab7c803ae03a4f2975a12/tumblr_inline_opm4rwKe1I1rlag41_540.gif" />
+<div class="imagebox">
+<img src="/assets/img/ff8-ninth.gif" />
+<br /><span><i>I always wonder what a remake of this game would be like.</i></span>
+</div>
 <hr/>
 <p>
 BONUS: <a href="https://www.reddit.com/r/gaming/comments/71ypwh/never_forget_that_in_final_fantasy_viii_you_could/dnetqq9/">Here is the link to the reddit comment I made that inspired this article</a>
