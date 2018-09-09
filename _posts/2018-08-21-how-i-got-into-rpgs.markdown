@@ -8,10 +8,12 @@ categories:
 - storytime
 ---
 
-In 1995 I was 9 years old and I my closest friends and I had a distinguished friendship based on videogames, legos, and imaginary worlds. My friends and I of us embarked on numerous lego adventures, what we would call "times". 
+In 1996 I was 9 years old and I my closest friends and I had a distinguished friendship based on videogames, legos, and imaginary worlds. My friends and I of us embarked on numerous lego adventures, what we would call "times". 
 
-![](https://vignette.wikia.nocookie.net/lego/images/4/4e/6199_HCS.jpg/revision/latest?cb=20100928202700)
-*This particular lego set was the source of much of my imagination...*
+<div class="imagebox">
+<img src="/assets/img/rpgs-legos.jpg" />
+<br /><span><i>This particular lego set was the source of much of my imagination...</i></span>
+</div>
 
 The idea was actually inspired heavily by <b>Chrono Trigger</b>, an RPG that came out the same year. We would each design our own "time periods" that we would "time travel" to by flying appropriate vessels of lego crafts from one house to the next. Andy had "Medieval" times, Kevin had a "Near Future" featuring a battle arena, and I had "Post-Apocalyptic" time where giant robots ruled (a la Voltron or Gundam). Joseph also had a "Post-Apocalyptic" time which was underwater (I think there was a bit of a rivalry between us).
 
@@ -23,17 +25,21 @@ When I was about 4 years old, it was 1990, and my parents had purchased my first
 
 I much prefered <b>Excitebike</b>. It would take me another 20 years to buy a motorcycle, but this game was fascinating primarily because of the level creation tool. I spent many hours creating my own worlds from scratch, finding immense satisfaction from creativity. I longed for a day when I could perhaps mount a virtual bike and ride through the tracks I created in first person. Or maybe, even something as simple as sitting in virtual stands as I watch other players test out my track.
 
-![](https://videochums.com/review/vs-excitebike-3.jpg)
-*The true precursor to Minecraft...*
+<div class="imagebox">
+<img src="/assets/img/rpgs-excitebike.jpg" />
+<br /><span><i>The true precursor to Minecraft...</i></span>
+</div>
 
 But this also wasn't enough, as the racing eventually became monotonous. I needed an adventure. That's where <b>Adventure Island</b> came in. There was no obvious plot, and certainly no leveling up, but gaining new weapons and new powers, as well as slightly less difficult gameplay than most other NES games at the time, I got really drawn into its world. But once again, I never beat it. Once I got deep enough in the game and died, repeating the quest did not have the same draw as before. It was just an empty quest with random enemies. I would imagine stories about the various dinosaurs I encountered, why they were where I found them, and the purpose of their existence, but I needed something that would draw me in.
 
-Somewhere around then I was introduced to <b>Sonic the Hedgehog</b> by my friend Chad who lived across from the kindergarten we attended in Valencia, CA. I remember fondly as we played it late into the night. I enjoyed the world of Sonic, especially the music, and felt inextricably attached to the character, [certainly due to their successful marketing techniques](https://www.polygon.com/2018/3/21/17149990/sonic-the-hedgehog-history-gdc-naoto-oshima-hirokazu-yasuhara).
+Somewhere around then I was introduced to <b>Sonic the Hedgehog</b> by my friend Chad who lived across from the kindergarten we attended in Valencia, CA. I remember fondly as we played it late into the night. I enjoyed the world of Sonic, especially the music, and felt inextricably attached to the character, [certainly due to their successful marketing techniques](https://www.polygon.com/2018/3/21/17149990/sonic-the-hedgehog-history-gdc-naoto-oshima-hirokazu-yasuhara#center).
 
 I even remembered my first rental game: <b>Ghostbusters</b>. I could barely play the game ([nobody could](https://www.youtube.com/watch?v=TLVGmvmNitg)), and I cried so hard my parents returned it for me so I could get a copy of <b>Ghostbusters II</b> which was coincidentally equally hard, and succeeded in giving me nightmares.
 
-![](http://pressthebuttons.typepad.com/.a/6a00d83452033569e2011169010253970c-600wi)
-*This game over screen haunted me in my dreams.*
+<div class="imagebox">
+<img src="/assets/img/rpgs-ghostbusters2.png" />
+<br /><span><i>This game over screen haunted me in my dreams.</i></span>
+</div>
 
 At the age of 5, I moved to Foster City, CA, where I would spend the remainder of my childhood. My new babysitter Jackie introduced me to <b>The Legend of Zelda</b>, which she had mastered thoroughly. She liked to show me how she found all of the secrets in the world. I would sit there watching her play, and she would offer me a chance to play too, but if I died too much she would take over and show me what I needed to do.
 
@@ -43,8 +49,10 @@ And I nearly gave up on videogames at this point as I began to have a passion fo
 
 It was 1992, and my good friend Luke with whom I spent countless hours playing videogames and legos, suddenly moved back to the UK. In the wake of his unfortunate departure, he gifted me his <b>SNES</b> with <b>Super Mario World</b>, and <b>Turtles in Time</b>. 
 
-![](https://i.ytimg.com/vi/gA-kWI-Ylpo/hqdefault.jpg)
-*If you can hear the music in your head right now, you had a good childhood.*
+<div class="imagebox">
+<img src="/assets/img/rpgs-turtlesintime.jpg" />
+<br /><span><i>If you can hear the music in your head right now, you had a good childhood.</i></span>
+</div>
 
 Aside from playing <b>Turtles in Time</b> endlessly with my brother Adam and friend Steven, I valued the single player experience from <b>Super Mario World</b> due to its overworld exploration aspect. The castles and enemies, like <b>Super Mario Bros. 3</b> provided a level of depth to the game that I had never seen before. I imagined myself as an explorer -- unlike the main theme of the game -- traversing a world I had never seen before, and visiting towns and villages full of hostile creatures. I wanted something like that so bad that I was willing to superimpose my own imaginary needs on a game that was not providing it.
 
@@ -64,8 +72,10 @@ About a year later, though, Andy and I decided to go to the store as he really w
 
 I rented Chrono Trigger and he rented Illusion of Gaia. I insisted we try out my game first since we were playing on my SNES, and so we played Chrono Trigger first. But just 30 minutes into the game, we got stuck near the Cathedral where you're supposed to pick up a hairpin from the stairs.
 
-![](https://lparchive.org/Chrono-Trigger-(by-Coughing-Hobo)/Update%206/2-CT4-20-07--003-28b.png)
-*And I wanted nothing but the ability to progress in this game.*
+<div class="imagebox">
+<img src="/assets/img/rpgs-chrono.png" />
+<br /><span><i>And I wanted nothing but the ability to progress in this game.</i></span>
+</div>
 
 I found out from Andy that in Illusion of Gaia you got to turn into a badass with a sword, so I insisted we switch games, which I think Andy was okay with. I immediately fell in love with Illusion of Gaia despite its difficulty and became an instant fan, later introducing me to its predecessor Soul Blazer (and much later in College I revisited the strange, but interesting followup to Illusion of Gaia, Terranigma).
 
@@ -79,8 +89,12 @@ Then one fateful day in the spring of 1996 I was walking along the blacktop with
 
 "That's the one I had problems with!" I exclaimed. And it was then that I told him about the Cathedral scene, and he proceeded to tell me how to find the hairpin.
 
-That very day I rushed back to the video store and rented the game again, rushing through the first part of the game that I had played through many times and found that goddamn hairpin! Time melted away as I rushed through the game. To my wonder, I discovered that Eric's analysis of the game was correct: this was a really well made game. And it wasn't long until I had collected many of its multiple endings in New Game +.
+That very day I rushed back to the video store and rented the game again, rushing through the first part of the game that I had played through many times and found that goddamn hairpin! Time melted away as I rushed through the game. To my wonder, I discovered that Eric's analysis of the game was correct: this was a really well made game. And it wasn't long until I had collected many of its multiple endings in New Game +. 
+
+And as I mentioned before, one of the most inspiring factors of Chrono Trigger was the idea that we could travel through time, which inspired us to model our lego worlds after different time periods, and design space ships that immitated the memorable Chrono Trigger airship "Epoch" and fly them between each others' townhouses to engage our own original characters in each others' original worlds.
 
 Thanks to that last minute save by Eric, I am now a major fan of the RPG genre, and Chrono Trigger has been my favorite game ever since (until Bloodborne came out, but that's another story for another time).
 
-![](http://scalar.usc.edu/works/chronicles/media/chronot8_2.jpg)
+<div class="imagebox">
+<img src="/assets/img/rpgs-theend.jpg" />
+</div>

@@ -38,3 +38,21 @@ label[for="nav-trigger"] {
 .site-nav label[for="nav-trigger"] {
 	float: left;
 }
+
+.imagebox {
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+
+.imagebox img {
+	display: block;
+	margin: auto;
+	width: 30em;
+	height: 20em;
+}
+
+.imagebox span {
+	text-align: center;
+	display: block;
+	margin: auto;
+}
